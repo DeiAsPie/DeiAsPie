@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Signal](https://signal.me/#eu/19Yp0f7xGAZV1OSnvg3wxR-Es0HoI34qBLhRA5UjhgG2Gt4Tl01KFJxgfUt1U2YA)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can be found on the Third planet from the Sun in the Solar System right before Elon's hometown.
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="deiaspie" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/deiaspie?trk=profile-badge">Swaraj P.</a></div>
