@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Signal](https://signal.me/#eu/19Yp0f7xGAZV1OSnvg3wxR-Es0HoI34qBLhRA5UjhgG2Gt4Tl01KFJxgfUt1U2YA)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can be found on the Third planet from the Sun in the Solar System right before Elon's hometown.
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e7cf545f-f9fd-4d81-8805-41bd5c25f140" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
